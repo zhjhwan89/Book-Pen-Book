@@ -12,3 +12,6 @@
 3. `TR_PASS`，默认要修改的密码。
 4. `kv`，绑定`KV命名空间`。
 5. `/panel`，部署成功后，在url后面增加/panel来进行访问面板。
+
+# 特别感谢
+[bia-pain-bache](https://github.com/bia-pain-bache)
