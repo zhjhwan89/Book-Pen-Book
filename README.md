@@ -13,5 +13,9 @@
 4. `kv`，绑定`KV命名空间`。
 5. `/panel`，部署成功后，在url后面增加/panel来进行访问面板，访问面板修改的密码将会保存在`kv`对里。
 
+## IP优选工具的使用
+1. win 电脑下载`IP优选工具/CF优选官方IP[win电脑版].7z`，解压后，退出VPN，运行本软件。
+2. 下载[CloudflareScanner](https://github.com/bia-pain-bache/Cloudflare-Clean-IP-Scanner/releases/tag/v2.2.5)，解压后，退出VPN，运行本软件。
+
 # 特别感谢
 [bia-pain-bache](https://github.com/bia-pain-bache)
