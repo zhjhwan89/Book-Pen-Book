@@ -6,7 +6,7 @@
 6. 引用请注明出处：[SO启程Github](https://github.com/Setout8/Book-Pen-Book))
 
 ## 变量的使用
-1. `UUID`，生线生成(https://1024tools.com/uuid)。
+1. `UUID`，在线生成(https://1024tools.com/uuid)。
 2. `PROXYIP`，来源于网络分享：`proxy.xxxxxxxx.tk`、`edgetunnel.anycast.eu.org`、`ts.hpc.tw`、`cdn.xn--b6gac.eu.org`、`cdn-all.xn--b6gac.eu.org`、`bestproxy.onecf.eu.org`。
 3. `TR_PASS`，默认要修改的密码。
 4. `kv`，绑定`KV命名空间`。
