@@ -1,4 +1,4 @@
-## 使用方法[视频]
+## 使用方法[视频教程](https://youtu.be/sWy9gCBA5Lo)
 1. 新建一个私人仓库，项目可随意命名，但要避开BPB敏感词。
 2. 在该项目创建`.github/workflows/Obfuscate.yml`。
 3. 复制`创建仓库源码.js`的代码，粘贴到项目，保存。
