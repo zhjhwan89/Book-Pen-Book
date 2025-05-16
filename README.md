@@ -10,7 +10,7 @@
 | 变量  | 用法 |
 | :-------------: | :-------------: |
 | **UUID**  | 必要；[在线生成](https://1024tools.com/uuid) ，用于生成 VLESS 节点配置 |
-| **PROXY_IP**  | 必要；旧版本是`PROXYIP`  |
+| **PROXY_IP**  | 必要；旧版本是`PROXYIP`，[查是否有效](https://www.nslookup.io/domains/ts.hpc.tw/dns-records/#cloudflare)  |
 | **TR_PASS**  | 必要；密码，用于生成 Trojan 节点配置  |
 | **kv**  | 必要；KV命名空间  |
 | **/panel**  | 在 url 后面增加/panel访问面板  |
