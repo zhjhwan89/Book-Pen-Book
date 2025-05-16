@@ -1,4 +1,4 @@
-## 使用方法[视频教程](https://youtu.be/sWy9gCBA5Lo)
+## 使用方法[视频教程≤v3.1.4版本](https://youtu.be/sWy9gCBA5Lo)
 1. 新建一个私人仓库，项目可随意命名，但要避开 BPB 敏感词。
 2. 在该项目创建`.github/workflows/Obfuscate.yml`。
 3. 复制`创建仓库源码.js`的代码，粘贴到项目，保存。
@@ -15,6 +15,16 @@
 6. `kv`，绑定`KV命名空间`。
 7. `/panel`，部署成功后，在 url 后面增加/panel来进行访问面板，访问面板修改的密码将会保存在`kv`对里。
 8. 注意：v3.1.4 及以下版本，`PROXYIP`为变量，IP/域名用英文逗号`,`分隔；v3.2.0 及以上版本，`PROXY_IP`为变量，IP/域名用回车键`ENTER`分隔。
+
+## 更多环境变量
+| Variable  | Usage |
+| :-------------: | :-------------: |
+| **UUID**  | VLESS UUID  |
+| **TR_PASS**  | Trojan Password  |
+| **PROXY_IP**  | Proxy IP or domain (VLESS, Trojan)  |
+| **SUB_PATH**  | Subscriptions' URI  |
+| **FALLBACK**  | Fallback domain (VLESS, Trojan) |
+| **DOH_URL**  | Core DOH |
 
 ## IP优选工具的使用
 1. win 电脑下载 IP优选工具/[CF优选官方IP[win电脑版].7z](https://github.com/Setout8/Book-Pen-Book/blob/main/IP%E4%BC%98%E9%80%89%E5%B7%A5%E5%85%B7/CF%E4%BC%98%E9%80%89%E5%AE%98%E6%96%B9IP%5Bwin%E7%94%B5%E8%84%91%E7%89%88%5D.7z)，解压后，退出VPN，运行本软件。
