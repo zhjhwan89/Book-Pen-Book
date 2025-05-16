@@ -8,7 +8,7 @@
 
 ## 变量的使用
 1. `UUID`，[在线生成](https://1024tools.com/uuid)。
-2. `PROXYIP`，来源于网络分享：`proxy.xxxxxxxx.tk`、`edgetunnel.anycast.eu.org`、`ts.hpc.tw`、`cdn.xn--b6gac.eu.org`、`cdn-all.xn--b6gac.eu.org`、`bestproxy.onecf.eu.org`。
+2. `PROXYIP`，来源于网络分享：`proxy.xxxxxxxx.tk`、`edgetunnel.anycast.eu.org`、`ts.hpc.tw`、`cdn.xn--b6gac.eu.org`、`cdn-all.xn--b6gac.eu.org`、`bestproxy.onecf.eu.org`、`proxyip.cmliussss.net`。
 3. `TR_PASS`，默认要修改的密码。
 4. `kv`，绑定`KV命名空间`。
 5. `/panel`，部署成功后，在 url 后面增加/panel来进行访问面板，访问面板修改的密码将会保存在`kv`对里。
