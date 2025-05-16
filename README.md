@@ -9,7 +9,7 @@
 ## 变量的使用
 1. `UUID`，[在线生成](https://1024tools.com/uuid)。
 2. `PROXYIP`，v3.1.4 及以下版本。
-3. `PROXY_IP`，v3.1.4 以上版本（即最`新版本`）。
+3. `PROXY_IP`，v3.1.4 以上版本（即`最新版本`）。
 4. 来自大佬分享的PROXYIP：`proxy.xxxxxxxx.tk`、`edgetunnel.anycast.eu.org`、`ts.hpc.tw`、`cdn.xn--b6gac.eu.org`、`cdn-all.xn--b6gac.eu.org`、`bestproxy.onecf.eu.org`、`proxyip.cmliussss.net`。
 5. `TR_PASS`，默认要修改的密码。
 6. `kv`，绑定`KV命名空间`。
