@@ -17,14 +17,15 @@
 8. 注意：v3.1.4 及以下版本，`PROXYIP`为变量，IP/域名用英文逗号`,`分隔；v3.2.0 及以上版本，`PROXY_IP`为变量，IP/域名用回车键`ENTER`分隔。旧版本（v3.1.4）升级为新版本，请删除旧变量建立新的`PROXY_IP`变量，面板的数据会丢失，请在面板上重置。本仓库main主线默认为最新版本。
 
 ## 更多环境变量
-| Variable  | Usage |
+| 变量  | 用法 |
 | :-------------: | :-------------: |
-| **UUID**  | VLESS UUID  |
-| **TR_PASS**  | Trojan Password  |
-| **PROXY_IP**  | Proxy IP or domain (VLESS, Trojan)  |
-| **SUB_PATH**  | Subscriptions' URI  |
-| **FALLBACK**  | Fallback domain (VLESS, Trojan) |
-| **DOH_URL**  | Core DOH |
+| **UUID**  | [在线生成](https://1024tools.com/uuid) ，用于生成 VLESS 节点配置 |
+| **TR_PASS**  | 密码，用于生成 Trojan 节点配置  |
+| **PROXY_IP**  | 用非 CF 网络落地  |
+| **kv**  | KV 命名空间  |
+| **SUB_PATH**  | 订阅的 URI  |
+| **FALLBACK**  | 后备域 |
+| **DOH_URL**  | 核心 DOH |
 
 ## IP优选工具的使用
 1. win 电脑下载 IP优选工具/[CF优选官方IP[win电脑版].7z](https://github.com/Setout8/Book-Pen-Book/blob/main/IP%E4%BC%98%E9%80%89%E5%B7%A5%E5%85%B7/CF%E4%BC%98%E9%80%89%E5%AE%98%E6%96%B9IP%5Bwin%E7%94%B5%E8%84%91%E7%89%88%5D.7z)，解压后，退出VPN，运行本软件。
