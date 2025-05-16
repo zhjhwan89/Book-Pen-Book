@@ -1,5 +1,5 @@
 ## 使用方法视频教程[≤v3.1.4版本](https://youtu.be/sWy9gCBA5Lo)
-1. 新建一个私人仓库，项目可随意命名，但要避开 BPB 敏感词。
+1. 新建一个私人仓库，项目可随意命名，但要避开 BPB 敏感词（如果觉得麻烦可以直接`Fork`本存储库来搭建`Pages+github`）。
 2. 在该项目创建`.github/workflows/Obfuscate.yml`。
 3. 复制`创建仓库源码.js`的代码，粘贴到项目，保存。
 4. 点击`Obfuscate.yml`旁边的小黄点同步到 BPB 代码，同步完成生成`_worker.js`与`origin.js`，前者是混淆代码，后者是明文代码。如果找不到小黄点，请前往：`你的项目`→`Actions`→左边的`Build Obfuscate BPB Panel`→中间的`Build Obfuscate BPB Panel`的工作流文件是否有效。
