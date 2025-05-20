@@ -1,4 +1,4 @@
-## 使用方法一：Fork仓库 视频教程
+## 使用方法一：Fork仓库 [视频教程](https://youtu.be/B4pBQHWgvfw)
 1. 直接`Fork`本存储库。本存储库`main`主线默认为`自动升级为最新版本`。
 2. 到`Cloudflare`利用`Pages+github`搭建。
 3. 再增加下面必要的变量。
