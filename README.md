@@ -10,12 +10,12 @@
 4. 点击`Obfuscate.yml`旁边的小黄点同步到 BPB 代码，同步完成生成`_worker.js`与`origin.js`。如果找不到小黄点，请前往：`你的项目`→`Actions`→左边的`Build Obfuscate BPB Panel`→中间的`Build Obfuscate BPB Panel`的工作流文件是否有效。
 7. 到`Cloudflare`里创建`Pages+github`，找到刚刚的 github 项目，用其创建 Pages 项目，并修改下面的变量及绑定 kv 空间。
    
-## 使用方法三：Pages+文件上传 [视频教程](https://youtu.be/sWy9gCBA5Lo)
+## 使用方法三：Pages+文件上传 [视频教程](https://youtu.be/WokDjJ92KVY)
 1. 下载`_worker.js`，将其放入一个`空白文件夹`或压缩成一个`压缩包`。
 2. 到`Cloudflare`利用`Pages+上传文件`方式搭建。
 3. 再增加下面必要的变量。
    
-## 使用方法四：Workers+复制代码 [视频教程](https://youtu.be/sWy9gCBA5Lo)
+## 使用方法四：Workers+复制代码 [视频教程](https://youtu.be/WokDjJ92KVY&t=1475s)
 1. 复制`_worker.js`全部代码。
 2. 到`Cloudflare`利用`Workers`方式搭建，粘贴`_worker.js`里所有的代码。
 3. 再增加下面必要的变量。
